@@ -56,3 +56,11 @@ Feel free to suggest any features we should add to PlatinumBot or if you find an
 
 ### Why is PlatinumBot Open Source?
 We believe that one of the most important things of any project is the ability to make changes to alter anything that you wish, without the difficulty of decompiling and the difficulty of understanding someone else's code or thought process. We encourage you to look over the code for PlatinumBot and feel free to change the code and explore new and creative ways to make it better and fit your needs. 
+
+### I need support with my bot configuration and/or setup. What can I do?
+Feel free to join our support Discord server: https://discord.gg/
+
+Note: Keep in mind that despite having a support server, support for PlatinumBot is fulfilled on a volunteer availability basis. So if possible try reading our FAQ's, Wiki or create an issue request if you find the issue effecting server performance/integration.
+
+### How Can I Support the PlatinumBot Project?
+We apprecaite everyone for checking the project out and willingness to support us! Although definetly not required/obligated to, we accept donations via PayPal in the link below. By donating to our project, you will get a [SUPPORTER] recognition tag and role in our support server.
