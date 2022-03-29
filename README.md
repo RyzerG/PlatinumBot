@@ -26,3 +26,33 @@ With this option, you give yourself the oppurtunity to modify the PlatinumBot's 
 - As of right now, we are working hard to expand our development on the hosting of this project.
 - It's planned to be released soon!
 
+### What can PlatniumBot Do?
+A lot! The main goal with this bot is to make it expandable and adjustable to each server environment and as you see fit.
+
+Although we are always looking to add more to the development of this bot, here's some what we have implemented so far!
+- Moderation Commands:
+  - Banning & Kicking Users
+  - Muting Users
+  - Role Promotion and Demotion
+  - History Viewing
+  - New User Verification
+  - Ticket Creation/Resolution/Support Channels
+  - Chat Purge
+  - Chat Lock
+- Functionality Commands
+  - Status Commands (Change status and presense of bot)
+  - Private Channel (Creation/Timed)
+  - Streaming Mode
+  - Slash Commands
+- Entertainment Commands/Features
+  - Minecraft Hypixel Commands (Stats, Profiles, More)
+  - Rock Paper Scissors
+  - Play Music from URL to Voice Channels (only works from verified domains)
+  - Record Audio from Channel
+  - Random GIF
+  - Custom Fun Commands (Add as you would like!)
+
+Feel free to suggest any features we should add to PlatinumBot or if you find any improvements we should make to our list of features!
+
+### Why is PlatinumBot Open Source?
+We believe that one of the most important things of any project is the ability to make changes to alter anything that you wish, without the difficulty of decompiling and the difficulty of understanding someone else's code or thought process. We encourage you to look over the code for PlatinumBot and feel free to change the code and explore new and creative ways to make it better and fit your needs. 
