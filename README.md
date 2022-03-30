@@ -1,11 +1,13 @@
 # PlatinumBot
 The open-source Discord Bot, ready to join and help you and your admin's protect, entertain and serve your server members and community.
 
+[![Discord](https://img.shields.io/discord/241667244927483904.svg?label=discord&logo=discord)](https://discord.gg/)
+
 ### What is PlatinumBot?
 PlatinumBot is a simply made Discord bot based and built using Python. It's overall objective is to eliminate the need for the various circulating Discord Bots, and create an all-in-one solution making server management and controlling your server environment easier than ever.
 
 ### How can I use PlatinumBot in my server?
-As of now, PlatinumBot is currently in the BETA testing stage of development. Despite this, to add PlatinumBot to your server, we currently have two options in order to use this bot.
+As of now, PlatinumBot is currently in the **BETA** testing stage of development. Despite this, to add PlatinumBot to your server, we currently have two options in order to use this bot.
 
 1. Host your bot yourself (Self-Host)
 With this option, you give yourself the oppurtunity to modify the PlatinumBot's base code and add and remove features and text as you wish!
@@ -63,4 +65,4 @@ Feel free to join our support Discord server: https://discord.gg/
 Note: Keep in mind that despite having a support server, support for PlatinumBot is fulfilled on a volunteer availability basis. So if possible try reading our FAQ's, Wiki or create an issue request if you find the issue effecting server performance/integration.
 
 ### How Can I Support the PlatinumBot Project?
-We apprecaite everyone for checking the project out and willingness to support us! Although definetly not required/obligated to, we accept donations via PayPal in the link below. By donating to our project, you will get a [SUPPORTER] recognition tag and role in our support server.
+We apprecaite everyone for checking the project out and willingness to support us! Although definetly not required/obligated to, we accept donations via PayPal in the link below. By donating to our project, you will get a **[SUPPORTER]** recognition tag and role in our support server.
